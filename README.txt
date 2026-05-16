@@ -1,1 +1,0 @@
-index.htmlはリポジトリ直下へ、cards.jsonはcardsフォルダ内へ上書きしてください。cars.jsonは予備です。
