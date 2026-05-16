@@ -100,6 +100,15 @@
     "image": "2_shio_ramen_set.svg"
   },
   {
+    "id": "yakiniku",
+    "label": "やきにく",
+    "image": "2_yakiniku.png"
+  },
+  {
+    "id": "bentou",
+    "label": "しおラーメン",
+    "image": "2_bentou.png"
+  },  {
     "id": "sentaku",
     "label": "せんたく",
     "image": "3_sentaku.png"
@@ -223,5 +232,10 @@
     "id": "tsuruha",
     "label": "ツルハ",
     "image": "5_tsuruha.png"
+  }
+  {
+    "id": "senzai",
+    "label": "せんざい",
+    "image": "5_senzai.png"
   }
 ]
